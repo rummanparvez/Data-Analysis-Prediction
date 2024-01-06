@@ -32,3 +32,6 @@ highest profit margin compared to other product categories.
 •	Hypothesis 4: Orders with same-day shipping have the lowest rate of returned products. This hypothesis is supported. The data shows that orders with same-day shipping have the lowest rate of returned products.
 
 •	Hypothesis 5: The company's profit is more on weekdays than on weekends. This hypothesis is supported. The data shows that the company's profit is more on weekdays than on weekends.
+
+
+Note: This also includes the streamlit file named data_analysis.py for the web based understanding of the above Hypothesis
